@@ -1,0 +1,23 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+@import '/vendor/awcodes/filament-curator/resources/css/plugin.css';
+
+@config 'tailwind.config.js';
+
+
+/*.fi-section{*/
+/*    height: 100% !important;*/
+/*}*/
+
+.text-wrap{
+    word-break: break-all;
+    text-wrap: wrap;
+}
+
+/*.fi-dropdown-panel{*/
+/*    width:fit-content !important;*/
+/*}*/
+
+
+.tox-pop{
+    display: none !important;
+}
